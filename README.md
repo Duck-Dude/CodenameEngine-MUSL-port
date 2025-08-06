@@ -2,7 +2,7 @@
 
 
 # Please note my port is insanely poorly done
-
+# Also this is only for Linux distros like Alpine Linux and Arch Linux
 
 
 ## PLEASE NOTE - THIS IS STILL IN A BETA STATE
