@@ -1,7 +1,7 @@
 # Friday Night Funkin' - Codename Engine MUSL port
 
 
-# Please note my port is insanely poorly done
+# Please note my port is insanely poorly done and may not work on NVIDIA GPUS
 # Also this is only for Linux distros like Alpine Linux and Arch Linux
 
 
