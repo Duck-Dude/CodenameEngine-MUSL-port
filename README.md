@@ -3,7 +3,7 @@
 
 # Please note my port is insanely poorly done and may not work on NVIDIA GPUS
 # Also this is only for Linux distros like Alpine Linux and Arch Linux
-
+# Please be aware that there are way too many bugs for me to count (like frame skipping)
 
 ## PLEASE NOTE - THIS IS STILL IN A BETA STATE
 ### Mods created with beta versions of Codename may not be compatible with the release version
